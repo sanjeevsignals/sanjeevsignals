@@ -9,6 +9,7 @@ No promises.
 Just market behavior, personal observations,
 and frameworks built over time.
 
-This GitHub is my proof of work archive.
+This GitHub is not for followers.
+It is for accountability.
 
 — Sanjeev Singh
